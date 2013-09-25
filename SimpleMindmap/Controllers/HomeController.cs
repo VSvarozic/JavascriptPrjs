@@ -10,6 +10,7 @@ namespace SimpleMindmap.Controllers
     {
         public ActionResult Index()
         {
+            // Some changes
             return View();
         }
     }
